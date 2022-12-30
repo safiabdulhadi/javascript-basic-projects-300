@@ -76,6 +76,9 @@ img {
   border-radius: 3px;
   cursor: pointer;
 }
+.buttons button i{
+  margin-right: 5px;
+}
 
 button.subtract {
   background-color: orangered;
